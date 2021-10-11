@@ -12,3 +12,6 @@ Druha zmena
 
 ## Fourth exercise
 fourt changes
+
+## Fifth exercise
+jedu přes příkazovou řádku v terminálu
