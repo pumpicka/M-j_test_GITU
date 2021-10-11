@@ -15,3 +15,6 @@ fourt changes
 
 ## Fifth exercise
 jedu přes příkazovou řádku v terminálu
+
+## Sixth exercise
+jdu přes source control a ...
